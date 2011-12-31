@@ -1,4 +1,3 @@
-Prefix-list of BGP Announces inside New Caledonia
-Origin-Site: https://git.nautile.net/gitweb/bgpnc.git
+Prefix-list of Local BGP Announces inside New Caledonia as seen by Nautile (AS45345)
 
-Nautile (AS45345)
+Origin-Site: https://git.nautile.net/gitweb/bgpnc.git
